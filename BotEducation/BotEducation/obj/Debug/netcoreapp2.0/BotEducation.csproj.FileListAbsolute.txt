@@ -1,0 +1,11 @@
+C:\Users\SOVAJJ\source\repos\BotEducation\BotEducation\bin\Debug\netcoreapp2.0\BotEducation.deps.json
+C:\Users\SOVAJJ\source\repos\BotEducation\BotEducation\bin\Debug\netcoreapp2.0\BotEducation.runtimeconfig.json
+C:\Users\SOVAJJ\source\repos\BotEducation\BotEducation\bin\Debug\netcoreapp2.0\BotEducation.runtimeconfig.dev.json
+C:\Users\SOVAJJ\source\repos\BotEducation\BotEducation\bin\Debug\netcoreapp2.0\BotEducation.dll
+C:\Users\SOVAJJ\source\repos\BotEducation\BotEducation\obj\Debug\netcoreapp2.0\BotEducation.csprojResolveAssemblyReference.cache
+C:\Users\SOVAJJ\source\repos\BotEducation\BotEducation\obj\Debug\netcoreapp2.0\BotEducation.csproj.CoreCompileInputs.cache
+C:\Users\SOVAJJ\source\repos\BotEducation\BotEducation\obj\Debug\netcoreapp2.0\BotEducation.AssemblyInfoInputs.cache
+C:\Users\SOVAJJ\source\repos\BotEducation\BotEducation\obj\Debug\netcoreapp2.0\BotEducation.AssemblyInfo.cs
+C:\Users\SOVAJJ\source\repos\BotEducation\BotEducation\bin\Debug\netcoreapp2.0\BotEducation.pdb
+C:\Users\SOVAJJ\source\repos\BotEducation\BotEducation\obj\Debug\netcoreapp2.0\BotEducation.dll
+C:\Users\SOVAJJ\source\repos\BotEducation\BotEducation\obj\Debug\netcoreapp2.0\BotEducation.pdb
